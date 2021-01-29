@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>facebook</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ORGANISMO-/-Footer" transform="translate(-538.000000, -372.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group" transform="translate(189.000000, 76.000000)">
+                <g id="RRSS" transform="translate(157.000000, 296.000000)">
+                    <path d="M234,0 L198,0 C194.691,0 192,2.691 192,6 L192,42 C192,45.309 194.691,48 198,48 L216,48 L216,31.5 L210,31.5 L210,24 L216,24 L216,18 C216,13.029 220.029,9 225,9 L231,9 L231,16.5 L228,16.5 C226.344,16.5 225,16.344 225,18 L225,24 L232.5,24 L229.5,31.5 L225,31.5 L225,48 L234,48 C237.309,48 240,45.309 240,42 L240,6 C240,2.691 237.309,0 234,0 Z" id="facebook"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
